@@ -1,0 +1,71 @@
+label {
+  font-weight: bold;
+  padding: 5px;
+}
+
+div {
+  padding-bottom: 20px;
+  width:500px;
+
+}
+
+#randomize {
+  margin-left:50px; 
+
+}
+
+.se {
+  background: #FFC125;
+  color: #0a39d4;
+  padding: 10px;
+  visibility: hidden;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.no {
+  background: #ffffff;
+  color: #0a39d4;
+  padding: 10px;
+  visibility: hidden;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.usa {
+  background: blue;
+  color: #fdfdfd;
+  padding: 10px;
+  visibility: hidden;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.gb {
+  background: #e71e17;
+  color: #fbfbfb;
+  padding: 10px;
+  visibility: hidden;
+  border-radius: 8px;
+  width: 400px;
+  
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 150px;
+
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+  background-image: url('https://external-preview.redd.it/Tf2MC-orVRAI8OL5tjyF4k4H2Q6QLHTWllekGfqdt3c.png?width=960&crop=smart&auto=webp&s=be4ab9a2fa3ca2f7011799377f118a8dbc64aacb');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fbfbfb;
+}
+canvas{
+  filter: blur(1px);
+}
